@@ -11,8 +11,7 @@ A Java-based application that calculates Body Mass Index (BMI) and provides a pe
    
     Weight: kilograms, pounds
    
- * Interactive health questionnaire
-     Lifestyle assessment including:
+ * Interactive health questionnaire including:
    
      Smoking habits
 
