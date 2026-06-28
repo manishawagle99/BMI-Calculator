@@ -8,6 +8,7 @@ A Java-based desktop application that calculates Body Mass Index (BMI) and provi
  * Supports multiple measurement units
    
     Height: meters, centimeters, feet
+   
     Weight: kilograms, pounds
    
  * Interactive health questionnaire
