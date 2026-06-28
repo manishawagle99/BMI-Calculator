@@ -1,4 +1,4 @@
-# BMI Calculator & Health Assessment System
+# BMI Calculator 
 
 A Java-based desktop application that calculates Body Mass Index (BMI) and provides a personalized health assessment based on user information and lifestyle-related questions. The application features an interactive GUI built with Java Swing and helps users better understand their health status.
 
@@ -18,6 +18,7 @@ A Java-based desktop application that calculates Body Mass Index (BMI) and provi
   Displays BMI category and health report
   User-friendly Java Swing graphical interface
   Database connectivity for storing and retrieving health-related data
+
  ## Technologies Used
   1. Java
   2. Java Swing (GUI)
