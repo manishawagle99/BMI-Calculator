@@ -13,6 +13,7 @@ A Java-based application that calculates Body Mass Index (BMI) and provides a pe
    
  * Interactive health questionnaire
      Lifestyle assessment including:
+   
      Smoking habits
 
      Alcohol consumption
@@ -22,6 +23,7 @@ A Java-based application that calculates Body Mass Index (BMI) and provides a pe
      Drug usage
   
  * Existing medical conditions
+ * 
     Displays BMI category and health report
 
     User-friendly Java Swing graphical interface
