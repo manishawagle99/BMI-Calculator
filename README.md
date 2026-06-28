@@ -6,8 +6,10 @@ A Java-based desktop application that calculates Body Mass Index (BMI) and provi
  * Calculate BMI using height and weight
  * Collect user information (Age, Gender, Height, Weight)
  * Supports multiple measurement units
-   ``` Height: meters, centimeters, feet
-   ``` Weight: kilograms, pounds
+   
+    Height: meters, centimeters, feet
+    Weight: kilograms, pounds
+   
  * Interactive health questionnaire
   Lifestyle assessment including:
   Smoking habits
