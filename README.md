@@ -1,6 +1,6 @@
 # BMI Calculator 
 
-A Java-based desktop application that calculates Body Mass Index (BMI) and provides a personalized health assessment based on user information and lifestyle-related questions. The application features an interactive GUI built with Java Swing and helps users better understand their health status.
+A Java-based application that calculates Body Mass Index (BMI) and provides a personalized health assessment based on user information and lifestyle-related questions. The application features an interactive GUI built with Java Swing and helps users better understand their health status.
 
  ## Features
  * Calculate BMI using height and weight
