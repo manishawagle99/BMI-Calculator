@@ -12,21 +12,21 @@ A Java-based desktop application that calculates Body Mass Index (BMI) and provi
     Weight: kilograms, pounds
    
  * Interactive health questionnaire
-  Lifestyle assessment including:
-  Smoking habits
+     Lifestyle assessment including:
+     Smoking habits
 
-  Alcohol consumption
+     Alcohol consumption
   
-  Exercise routine
+     Exercise routine
   
-  Drug usage
+     Drug usage
   
  * Existing medical conditions
-  Displays BMI category and health report
+    Displays BMI category and health report
 
-  User-friendly Java Swing graphical interface
+    User-friendly Java Swing graphical interface
   
-  Database connectivity for storing and retrieving health-related data
+    Database connectivity for storing and retrieving health-related data
 
  ## Technologies Used
   1. Java
@@ -39,7 +39,6 @@ A Java-based desktop application that calculates Body Mass Index (BMI) and provi
  ## Project Structure
  
  BmiCalculator/
-│
 ├── UserInformation/      
 ├── Question/            
 ├── SubQuestions/         
