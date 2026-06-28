@@ -14,12 +14,18 @@ A Java-based desktop application that calculates Body Mass Index (BMI) and provi
  * Interactive health questionnaire
   Lifestyle assessment including:
   Smoking habits
+
   Alcohol consumption
+  
   Exercise routine
+  
   Drug usage
+  
  * Existing medical conditions
   Displays BMI category and health report
+
   User-friendly Java Swing graphical interface
+  
   Database connectivity for storing and retrieving health-related data
 
  ## Technologies Used
@@ -44,20 +50,13 @@ A Java-based desktop application that calculates Body Mass Index (BMI) and provi
 
 
  ### How It Works
-Enter your personal information.
-Select height and weight units.
-The application converts values when needed.
-Complete the health questionnaire.
-BMI is calculated automatically.
-A health report is generated based on BMI and lifestyle responses.
+* Enter your personal information.
+* Select height and weight units.
+* The application converts values when needed.
+* Complete the health questionnaire.
+* BMI is calculated automatically.
+* A health report is generated based on BMI and lifestyle responses.
 
- ### BMI Categories
- 
-BMI Range	      Category
-Below 18.5	    Underweight
-18.5 – 24.9	    Normal Weight
-25.0 – 29.9     Overweight
-30.0 and above	Obese
 
  ## Future Improvements
 * User login and authentication
